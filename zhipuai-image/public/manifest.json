@@ -2,7 +2,7 @@
     "identifier": "zhipu-image",
     "api": [
       {
-        "url": "/api/generate",
+        "url": "https://lobechat-image-plugin-r0xiueuy2-shinzis-projects.vercel.app/api/generate",
         "name": "generateImage",
         "description": "使用智谱AI的CogView模型，根据文本提示生成图片",
         "parameters": {
