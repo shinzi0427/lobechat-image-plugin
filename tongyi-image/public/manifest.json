@@ -2,7 +2,7 @@
   "identifier": "tongyi-image",
   "api": [
     {
-      "url": "/api/generate",
+      "url": "https://lobechat-image-plugin-r0xiueuy2-shinzis-projects.vercel.app/api/generate",
       "name": "generateImage",
       "description": "Generate an image based on the given prompt using Alibaba's Tongyi Wanxiang model",
       "parameters": {
