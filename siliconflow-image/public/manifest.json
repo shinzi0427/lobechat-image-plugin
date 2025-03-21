@@ -2,7 +2,7 @@
   "identifier": "siliconflow-image",
   "api": [
     {
-      "url": "https://lobechat-image-plugin-r0xiueuy2-shinzis-projects.vercel.app/api/generate",
+      "url": "https://lobechat-image-plugin-git-main-shinzis-projects.vercel.app/api/generate",
       "name": "generateImage",
       "description": "使用SiliconFlow的图像生成API，根据文本提示生成图片",
       "parameters": {
