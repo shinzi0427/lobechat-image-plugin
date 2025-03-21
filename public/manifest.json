@@ -2,7 +2,7 @@
   "identifier": "xai-image-generator",
   "api": [
     {
-      "url": "https://api.x.ai/v1/images/generations",
+      "url": "/api/xai-image-generator",
       "name": "generateImage",
       "description": "使用xAI的image模型，根据文本提示生成图片",
       "parameters": {
