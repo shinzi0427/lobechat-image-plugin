@@ -1,1 +1,1 @@
-# lobechat-image-plugin
+# xai-image
